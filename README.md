@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 This is a change
 Second Change
 Third Change
+
+##How To Contribute
