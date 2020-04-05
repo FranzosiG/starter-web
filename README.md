@@ -17,4 +17,4 @@ Please fork this Repository
 
 ##Copyright
 
-2020 GIT.copyright
+2020 GIT.copyright. All rights reserved
